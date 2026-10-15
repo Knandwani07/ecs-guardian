@@ -1,4 +1,4 @@
-# 🐍 ECS Guardian — Source Code
+# ⚙️ ECS Guardian — Source Code
 
 This folder contains the Python source code for the ECS Guardian AWS Lambda function.
 
