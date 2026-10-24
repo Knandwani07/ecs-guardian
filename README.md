@@ -96,7 +96,7 @@ ecs-guardian/
 | `security.md` | Explains IAM security, least-privilege principles, and safety guardrails. |
 | `best-practices.md` | Covers recommended configurations, operational practices, and lessons learned. |
 | `cleanup-guide.md` | Provides instructions for removing demo AWS resources after testing. |
-| `ecs_guardian_project_documentation.pdf/` | Provides the consolidated ECS Guardian project documentation in PDF format.|
+| `ecs_guardian_project_documentation.pdf` | Provides the consolidated ECS Guardian project documentation in PDF format.|
 
 ## 🚀 Getting Started
 
