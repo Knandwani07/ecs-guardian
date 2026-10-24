@@ -72,6 +72,7 @@ ecs-guardian/
 ├── src/
 │   ├── README.md
 │   └── container_guardian.py
+├── ecs_guardian_project_documentation.pdf
 ├── README.md
 ├── architecture-overview.md
 ├── best-practices.md
@@ -88,6 +89,7 @@ ecs-guardian/
 | `iam-policies/` | Contains IAM trust and permissions policies in JSON format, along with Markdown explanations. |
 | `scripts/` | Contains shell scripts for building and pushing demo Docker images to Amazon ECR and registering ECS task definition revisions. 
 | `src/` | Contains the Python source code for the AWS Lambda function and its documentation. |
+| `ecs_guardian_project_documentation.pdf/` | Provides the consolidated ECS Guardian project documentation in PDF format.|
 | `README.md` | Main project overview, features, architecture summary, and links to supporting documentation. |
 | `architecture-overview.md` | Explains the system architecture, AWS services, and their responsibilities. |
 | `execution-workflow.md` | Describes the execution workflow and the sequence of steps used to prepare and run the demo. |
